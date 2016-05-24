@@ -1,0 +1,22 @@
+{
+  "name": "@c8/output",
+  "version": "0.0.1",
+  "description": "Common output utils for C8 components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c8management/output.git"
+  },
+  "author": "Pavel Pichrt <pavel@pichrt.cz> (http://pichrt.cz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c8management/output/issues"
+  },
+  "homepage": "https://github.com/c8management/output#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
